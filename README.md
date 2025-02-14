@@ -1,4 +1,4 @@
-# Silent DS Machine Learning Pipeline
+# Machine Learning Pipeline
 
 ## Project Overview
 This project implements a complete machine learning pipeline, including data ingestion, validation, transformation, model training, and evaluation.
