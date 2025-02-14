@@ -1,0 +1,7 @@
+# Parameters of the model used in the model_trainer step are defined in params.yaml as follows:
+ElasticNet:
+  alpha: 0.2
+  l1_ratio: 0.1
+
+
+# Can alos use json file to store parameters
